@@ -1,1 +1,10 @@
 the file second2 was being created and stored in the git repository
+
+if u modify and the changes to reflect in the git hub 
+then follow the same 4 sreps to do it
+0. save the modified file
+1. add (git add filename)
+2. commit(git commit -m "the message you want to type")   => -m The next is the message
+3. push  (git push origin main)     
+        origin  => the repository link you copied and it is also known as the "origin"
+        main => this is the root folder/file inside the GITHUB
